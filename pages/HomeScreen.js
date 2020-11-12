@@ -18,6 +18,7 @@ const HomeScreen = ({ navigation }) => {
               marginBottom: 16
             }}>
             Home Screen
+            cambios realizados en la rama develop
           </Text>
           <Button
             onPress={() => navigation.navigate('SettingScreenStack')}
